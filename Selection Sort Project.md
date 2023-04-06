@@ -1,4 +1,6 @@
-<h1>The given sequence is: [22, 27, 16, 2, 18, 6]</h1>
+<h1>SELECTION SORT PROJECT</h1>
+
+**<h3>The given sequence is: [22, 27, 16, 2, 18, 6]</h3>**
 
 **In the first step**, 27 is compared with 22 and since 27 is greater than 22, their positions are swapped: [22, 27, 16, 2, 18, 6]
 
@@ -22,7 +24,7 @@ After the series is sorted, the number 18 we are looking for is in the middle, s
 
 ---
 
-<h1>[7,3,5,8,2,9,4,15,6]</h1> 
+<h2>[7,3,5,8,2,9,4,15,6]</h2> 
 
 <h3>The first 4 steps of the sequence according to the Selection Sort</h3>
 
