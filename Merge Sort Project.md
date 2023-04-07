@@ -17,4 +17,4 @@
 ---
 # Big-O notation
 
-<h3>The time complexity of Merge Sort is O(nlogn), </h3>
+<h3>The time complexity of Merge Sort is O(nlogn) </h3>
