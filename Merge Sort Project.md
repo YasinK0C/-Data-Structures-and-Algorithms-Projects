@@ -15,5 +15,6 @@
 6. Merge the two sorted halves: [11,16,21] and [8,12,22] -> [8,11,12,16,21,22].
 
 ---
+# Big-O notation
 
-<h3>The time complexity of Merge Sort is O(nlogn), where n is the number of elements in the array.</h3>
+<h3>The time complexity of Merge Sort is O(nlogn), </h3>
