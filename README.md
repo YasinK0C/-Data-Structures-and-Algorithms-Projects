@@ -5,7 +5,7 @@ In this repo, there are projects in the Data Structures and Algorithms course on
 
 Click to visit profile Patika
 
-https://app.patika.dev/ysnkoc
+https://academy.patika.dev/@ysnkoc
 
 Click to visit profile GitHub
 
